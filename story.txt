@@ -1,0 +1,1 @@
+The tab bar becomes pill tabs at the top, the summary card goes two columns, the due cards sit side by side, and the year grid spreads each tenant’s 12 months across one row.
